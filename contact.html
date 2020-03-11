@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nahom T.</title>
     <link rel="icon" sizes="114x114"
-      href="./asset/Image/head.png" type="image/png">
+      href="./asset/Image/prfl.jpg" type="image/png">
 </head>
 <body>
   
@@ -49,18 +49,18 @@
         </div>
         </td>
 <td><label for="fName">First Name</label></td>
-<td><input type="text" name="fname" id="fname"></td>
+<td><input type="text" name="fname" id="fname" required pattern="[a-zA-Z']{4,10}\S"></td>
 
 </tr>
 <tr><td><label for="sName">SurName</label></td>
-    <td><input type="text" name="sname" id="sname"></td>
+    <td><input type="text" name="sname" id="sname" pattern="[a-zA-Z']{4,10}\S"></td>
 </tr>
 <tr>
     <td><label for="email">Email</label></td>
     <td><input type="email" name="email" id="email"></td>
 </tr>
 <tr><td><label for="password">Password</label></td>
-    <td><input type="password" name="password" id="password"></td>
+    <td><input type="password" name="password" id="password" required pattern="^[a-zA-Z]\w{3,14}$"></td>
 </tr>
 <tr>
     <td><label for="Phone">Phone No.</label></td>
@@ -94,12 +94,13 @@
 </td>
 </tr>
 </table>
+<br>
+<br>
+<a href="http:/www.facebook.com">Facebook</a>   |
+<a href="http:/www.twitter.com">Twitter</a>
 
 <hr>
 <p align="center">Developed by Nahom T &copy;</p>
 <hr>
-<a href="http:/www.facebook.com">Facebook</a>   |
-<a href="http:/www.twitter.com">Twitter</a>
-
 </body>
 </html>
