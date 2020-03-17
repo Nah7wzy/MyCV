@@ -1,4 +1,4 @@
-/* body{
+body{
     background-color: rgb(153, 61, 33);
     border: solid white 10px;
     margin: 10px;
@@ -45,33 +45,6 @@ img{
 }
 #clr{
     clear: right;
-} */
+} 
 
 
-header h3{
-    text-transform: uppercase;
-    padding: 50px;
-    text-align: center;
-
-}
-
-body{
-    font-size: 14px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
-}
-
-figure{
-    font-style: italic;
-}
-/* div{
-    margin-bottom: 40px;
-    float: left;
-} */
-
-div div{
-float: left;
-}
-#row3 {
-    padding-bottom: 50px;
-}
