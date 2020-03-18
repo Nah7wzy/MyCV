@@ -1,27 +1,29 @@
 header h3{
     text-transform: uppercase;
-    padding: 50px;
     text-align: center;
+    width: 10rem;
+    
+    border-bottom: cadetblue;
+    padding-bottom: 20px;
 
 }
 
 body{
     font-size: 14px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
     
 }
 
-figure{
+div div figure{
     font-style: italic;
-}
-/* div{
-    margin-bottom: 40px;
     float: left;
-} */
+    width: 30%;
+    padding-left: 3%;
+}
 
-div div{
-float: left;
-}
-#row3 {
+
+
+/* #row3 {
     padding-bottom: 50px;
-}
+} */
