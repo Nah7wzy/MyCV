@@ -27,7 +27,7 @@ article{
     font-size: 15px;
 }
 nav ul li :hover{
-    background-color: white;
+    background-color: rgb(194, 185, 185);
   
 
 }
@@ -36,21 +36,84 @@ nav{
     margin-bottom: 50px;
     padding: 10px;
 }
-li{
+nav ul li{
     display: inline-block;
 }
-
+ /* contact */
 img{
     float: left;
     border-radius: 100%;
-
+    padding-right: 20px;
 }
-#clr{
+
+#contact{
+    margin-bottom: 80px;
+    padding-bottom: 30px;
+    border-bottom: black solid;
+    margin: 100px;
+}
+
+/* #clr{
     clear: right;
-} 
+}  */
 
 .point{
     font: italic 18px Times;
 }
+
+.mapouter{
+    float: left;
+    margin-left: 100px;
+    
+}
+
+
+.right li{
+    list-style-type: none;
+    margin-right: 200px;
+    padding: 10px;
+    float: right;
+    clear: right;
+}
+
+#top{
+    padding-top: 0px;
+}
+
+.footer{
+    border-top: black solid;
+    clear: both;
+    padding-top: 150px;
+    padding-left: 75px;
+    margin-bottom: 70px;
+    
+}
+
+#submit{
+    width: 110px;
+    height: 40px;
+}
+
+/* index */
+.indcont .a{
+    float: left;
+    clear: both;
+}
+.indcont .b{
+    float: right;
+    
+    margin-right: 60%;
+}
+
+.indcont{
+    clear: left;
+    padding: 40px;
+    margin-bottom: 100px;
+}
+#ic2, #ic3{
+    border-top: solid black;
+}
+
+
 
 

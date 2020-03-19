@@ -6,7 +6,16 @@ body{
 nav{
     background-color: rgb(247, 247, 239);
     margin-bottom: 50px;
-    padding: 20px;
+    padding: 25px;
+    
+}
+nav a:hover{
+    background-color: rgb(194, 185, 185);
+}
+header{
+    background-color: rgb(119, 90, 90);
+    position: relative;
+    top: 20px;
 }
 #left{
     float: left;

@@ -18,8 +18,11 @@ body{
 div div figure{
     font-style: italic;
     float: left;
-    width: 30%;
+    width: 20%;
     padding-left: 3%;
+}
+div div{
+    clear: left;
 }
 
 
