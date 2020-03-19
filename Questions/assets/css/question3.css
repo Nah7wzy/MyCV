@@ -1,3 +1,266 @@
-div{
-    border: dotted black 5px;
+
+/* 1. Austria */
+#austria{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 175px;
+}
+#a1, #a3{
+    background-color: red;
+    padding-top: 25px;
+}
+#a2{
+    background-color: white;
+    padding-top: 25px;
+}
+
+/* 2. Japan */
+#bJapan{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 130px;
+    margin-top: 100px;
+    margin-left: 170px;
+    background-color: white;
+    padding: 40px;
+    
+}
+#b1{
+    background-color:#ff0000;
+    border-radius: 100%;
+    padding-top: 95px;
+    
+}
+
+
+/* 3. Azerbajan */
+#cAzerbj{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 175px;
+}
+#c1{
+    background-color: rgb(253, 24, 55);
+    padding-top: 25px;
+}
+#c2{
+    background-color: purple;
+    padding-top: 25px;
+}
+#c3{
+    background-color: rgb(255, 136, 0);
+    padding-top: 25px;
+}
+
+/* 4. Botswana */
+#dBotswana{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 175px;
+}
+#d1, #d3{
+    background-color: rgb(16, 130, 165);
+    padding-top: 30px;
+}
+#d2{
+    background-color: rgb(7, 6, 6);
+    padding-top: 15px;
+}
+
+/* 5. Bulgaria */
+#eBulgaria{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 175px;
+}
+#e1{
+    background-color: white;
+    padding-top: 25px;
+}
+#e2{
+    background-color: green;
+    padding-top: 25px;
+}
+#e3{
+    background-color: rgb(202, 9, 9);
+    padding-top: 25px;
+}
+
+/* 6. Thailand */
+#fThai{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 175px;
+}
+#f1, #f5{
+    background-color:rgb(139, 13, 13);
+    padding-top: 12px;
+    
+}
+#f2, #f4{
+    background-color:white;
+    padding-top: 12px;
+   
+}
+#f3{
+    background-color: rgb(21, 10, 71);
+    padding-top: 27px; 
+  
+}
+
+/* 7. Netherlands */
+#gNether{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-right: 175px;
+}
+#g1{
+    background-color:rgb(192, 13, 13);
+    padding-top: 25px;
+    
+}
+#g2{
+    background-color:rgb(253, 253, 244);
+    padding-top: 25px;
+   
+}
+#g3{
+    background-color: rgb(10, 22, 129);
+    padding-top: 25px;
+
+}
+
+/* 8. Colombia */
+#hColombia{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 200px;
+    margin-right: 175px;
+}
+#h1{
+    background-color:rgb(226, 197, 31);
+    padding-top: 43px;
+    
+}
+#h2{
+    background-color:rgb(33, 12, 129);
+    padding-top: 16px;
+   
+}
+#h3{
+    background-color: rgb(158, 12, 12);
+    padding-top: 16px;
+
+}
+
+/* 9. Estonia */
+#iEstonia{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-right: 175px;
+}
+#i1{
+    background-color:rgb(255, 255, 255);
+    padding-top: 25px;
+    
+}
+#i2{
+    background-color:rgb(31, 109, 182);
+    padding-top: 25px;
+   
+}
+#i3{
+    background-color: black;
+    padding-top: 25px;
+
+}
+
+/* 10. Russia */
+#jRussia{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-right: 175px;
+}
+#j1{
+    background-color:rgb(255, 255, 255);
+    padding-top: 25px;
+    
+}
+#j2{
+    background-color:rgb(91, 39, 177);
+    padding-top: 25px;
+   
+}
+#j3{
+    background-color: red;
+    padding-top: 25px;
+  
+}
+
+/* 11. Germany */
+#kGermany{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-right: 175px;
+}
+#k1{
+    background-color:black;
+    padding-top: 25px;
+    
+}
+#k2{
+    background-color:red;
+    padding-top: 25px;
+   
+}
+#k3{
+    background-color: yellow;
+    padding-top: 25px;
+  
+}
+
+/* 12. Ukraine */
+#lUkraine{
+    border: solid rgb(196, 191, 191) 1px;
+    padding: 0px;
+    width: 200px;
+    margin-top: 100px;
+    margin-right: 175px;
+    margin-bottom: 100px;
+}
+#l1{
+    background-color:rgb(36, 65, 196);
+    padding-top: 37.5px;
+    
+}
+#l2{
+    background-color:yellow;
+    padding-top: 37.5px;
+   
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
 }
