@@ -33,7 +33,8 @@ nav ul li :hover{
 }
 nav{
     background-color: rgb(247, 247, 239);
-    margin-bottom: 80px;
+    margin-bottom: 50px;
+    padding: 10px;
 }
 li{
     display: inline-block;
@@ -47,5 +48,9 @@ img{
 #clr{
     clear: right;
 } 
+
+.point{
+    font: italic 18px Times;
+}
 
 

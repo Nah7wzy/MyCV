@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(141, 115, 106);
+    border: 20px;
+    margin: 10px;
+}
+nav{
+    background-color: rgb(247, 247, 239);
+    margin-bottom: 50px;
+    padding: 20px;
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
