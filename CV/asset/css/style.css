@@ -1,15 +1,15 @@
 body{
-    background-color: rgb(153, 61, 33);
-    border: solid white 10px;
+    background-color: rgb(141, 115, 106);
+    border: 20px;
     margin: 10px;
 }
 header{
     background-color: rgb(119, 90, 90);
-    position: fixed;
-    top: 50px;
+    position: relative;
+    top: 20px;
 }
 section{
-    border: solid 1px;
+    border: 1px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 5px 30px;
 }
@@ -32,7 +32,8 @@ nav ul li :hover{
 
 }
 nav{
-    background-color: yellow;
+    background-color: rgb(247, 247, 239);
+    margin-bottom: 80px;
 }
 li{
     display: inline-block;
