@@ -1,3 +1,15 @@
+nav{
+    background-color: rgb(247, 247, 239);
+    margin-bottom: 50px;
+    padding: 15px;
+}
+
+body{
+    background-color: rgb(141, 115, 106);
+    border: 20px;
+    margin: 10px;
+}
+
 header h3{
     text-transform: uppercase;
     text-align: center;
@@ -18,8 +30,9 @@ body{
 div div figure{
     font-style: italic;
     float: left;
-    width: 20%;
-    padding-left: 3%;
+    width: 30%;
+    margin: 1.6px;
+
 }
 div div{
     clear: left;
