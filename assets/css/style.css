@@ -1,7 +1,8 @@
 body{
-    background-color: rgb(141, 115, 106);
+    background-color: rgb(173, 148, 140);
     border: 20px;
     margin: 10px;
+    background-image: url("a.jpg");
 }
 nav{
     background-color: rgb(247, 247, 239);

@@ -8,6 +8,8 @@ body{
     background-color: rgb(141, 115, 106);
     border: 20px;
     margin: 10px;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header h3{
@@ -20,12 +22,6 @@ header h3{
 
 }
 
-body{
-    font-size: 14px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-
-    
-}
 
 div div figure{
     font-style: italic;
