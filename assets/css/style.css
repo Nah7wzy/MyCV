@@ -7,7 +7,15 @@ body{
     background-size: 100%;
 }
 
-
+/* index */
+#index{
+    padding-left: 300px;
+    padding-top: 300px;
+}
+#ind{
+    background-color: wheat;
+}
+/*  */
 nav{
 display: flex;
 align-items: left;
