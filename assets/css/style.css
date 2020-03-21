@@ -58,3 +58,10 @@ header{
 #right{
     float: right;
 }
+
+/* for small screens removes the map */
+@media screen and (max-width: 680px) {
+    .aside {
+        display: none;
+    }
+}
