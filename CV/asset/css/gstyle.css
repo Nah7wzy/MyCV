@@ -25,14 +25,17 @@ nav a:hover{
     background-color: rgb(183, 184, 179);
 }
 
-div div figure{
+div div figure img{
     font-style: italic;
-    float: left;
+
     width: 30%;
     margin: 1.6px;
 
 }
-div div{
+figure{
+    float: left;
+}
+#row1, #row2, #row3{
     clear: left;
 }
 
