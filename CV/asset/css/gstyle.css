@@ -25,17 +25,22 @@ nav a:hover{
     background-color: rgb(183, 184, 179);
 }
 
+<<<<<<< HEAD
+
 img{
-    /* font-style: italic; */
-    float: left;
+    
+>>>>>>> 2acdcc7fb9feb76d1f1cf348d566a02bb2d8eaf5
     width: 30%;
     margin: 1.6%;
+    float: left;
 
 }
+<<<<<<< HEAD
 
 .first{
-    clear: left;
+clear: left;
 }
+
 
 
 
